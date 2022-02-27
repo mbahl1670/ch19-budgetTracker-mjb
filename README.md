@@ -36,7 +36,7 @@ https://shielded-sierra-33702.herokuapp.com/
 ## Screenshot of the Application
 ![image](https://user-images.githubusercontent.com/90292697/155900458-b735eb33-1008-4a67-92d7-ba56e18e6346.png)
 
-## Git Repository![Uploading Screenshot (63).png…]()
+## Git Repository
 https://github.com/mbahl1670/ch19-budgetTracker-mjb
 
 ## How this was accomplished
